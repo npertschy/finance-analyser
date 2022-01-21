@@ -1,0 +1,254 @@
+{
+  "niki": {
+    "file": "/Users/niki/Downloads/Umsatzanzeige_2021.csv",
+    "relevant-columns": [
+      0,
+      2,
+      4,
+      7
+    ]
+  },
+  "lina": {
+    "file": "/Users/niki/Downloads/1032324509-2.csv",
+    "relevant-columns": [
+      0,
+      3,
+      4,
+      7
+    ]
+  },
+  "time-frame": "2021",
+  "categories": {
+    "lebensmittel": [
+      "BIO COMPANY",
+      "NEULAND FLEISCHEREI",
+      "LIDL",
+      "DENNS BIOMARKT BERLIN",
+      "denn s Biomarkt",
+      "OBST+GEMUESE+SPEZIALITAETEN",
+      "OBST+GEMUeSE+SPEZIALITAeTEN",
+      "EDEKA",
+      "ALDI",
+      "REWE",
+      "NORMA",
+      "NETTO",
+      "Laufer GmbH",
+      "SCHAEFERS",
+      "F + W + G GMBH"
+    ],
+    "auto": [
+      "KRAFTFAHRT-VERSICHERUNG",
+      "KFZ-PORTAL",
+      "Orlen Deutschland GmbH",
+      "Tankstelle",
+      "Deutsche Tamoil GmbH",
+      "VW AUTOMOBILE BERLIN GMBH",
+      "Kfz-Steuer",
+      "ADAC",
+      "ARAL",
+      "Shell"
+    ],
+    "oepnv": [
+      "BVG"
+    ],
+    "trinken": [
+      "Getranke Hoffmann",
+      "GETRANKE HOFFMANN"
+    ],
+    "kleidung": [
+      "VINTED",
+      "GLOBETROTTE",
+      "Globetrotter",
+      "Zalando",
+      "COLUMBIA DE",
+      "SHIRTINATOR",
+      "ERDBEERENGEL",
+      "KLARNA",
+      "Ballsportdirekt.de",
+      "Grube KG",
+      "Teamkontor Berlin"
+    ],
+    "sparen": [
+      "Nikolas Pertschy - Sparplan",
+      "Sparen",
+      "Schwaebisch Hall",
+      "Bausparkasse",
+      "DEPOT",
+      "AnlageAbrechnung"
+    ],
+    "spenden": [
+      "SOS-Kinderdorf e.V.",
+      "betterplace"
+    ],
+    "strom": [
+      "eprimo"
+    ],
+    "medien": [
+      "Berliner Morgenpost",
+      "ITUNESAPPST",
+      "iTunes and App Store",
+      "Apple Services",
+      "Netflix.com",
+      "NETFLIX.COM",
+      "Rundfunkbeitrag",
+      "rundfunkbeitrag"
+    ],
+    "möbel": [
+      "IKEA",
+      "MOEBEL KRAFT",
+      "TREND MOEBELMARKT GMBH"
+    ],
+    "anschaffungen": [
+      "APPLE STORE",
+      "GEBRUEDERGO",
+      "FISSLER",
+      "AMZN MKTP",
+      "AMAZON.DE",
+      "RAVENSBURGE",
+      "GALERIA KARSTADT KAUFHOF GMBH",
+      "SOLOPELLEGM",
+      "THALIA-BUCHHANDLUNG",
+      "SATURN",
+      "ARKTIS",
+      "KAUFLAND.DE",
+      "posterXXL",
+      "Ebay",
+      "EBAY",
+      "BUECHER.DE",
+      "Galeria Karstadt",
+      "Kartenmachen.de Druck GmbH",
+      "MARKUS ORLINSKI",
+      "ROYAL SHISHA SHOP",
+      "Gusti Leder GmbH"
+    ],
+    "einnahmen": [
+      "InMediasP",
+      "BUNDESELTERNGELD",
+      "Elterngeld",
+      "Gutschrift",
+      "GUTSCHRIFT",
+      "EST-VERANL.",
+      "Lohn/Gehalt",
+      "LINA PERTSCHY-UNGER - Reisen"
+    ],
+    "drogerie": [
+      "DM DROGERIEMARKT",
+      "ROSSMANN",
+      "DM-DROGERIE MARKT"
+    ],
+    "kinder": [
+      "BABYWALZGMB",
+      "KiTa-Beitrag",
+      "Genossenschaftsanteil",
+      "Schwimmkurs",
+      "Charlotte Gemma Pertschy - Sparplan",
+      "Bundeskasse Dienstort Kiel - 109241358095"
+    ],
+    "baumarkt": [
+      "OBI"
+    ],
+    "mobilfunk": [
+      "Vodafone GmbH",
+      "PremiumSIM"
+    ],
+    "internet": [
+      "Vodafone Deutschland GmbH",
+      "1u1 Telecom GmbH",
+      "Vodafone Kabel Deutschland GmbH"
+    ],
+    "post": [
+      "POSTSHOP",
+      "DHL",
+      "HERMES",
+      "Deutsche Post AG"
+    ],
+    "bargeld": [
+      "Bargeldauszahlung VISA Card"
+    ],
+    "urlaub": [
+      "Euro Parking Collection plc",
+      "VISA SKYTTEL AS",
+      "AUSLANDSEINSATZENTGELT",
+      "Nordea Bank AB",
+      "OSLO",
+      "EPASS24",
+      "BAERENWALD"
+    ],
+    "sport": [
+      "VfL Tegel 1891 e.v.",
+      "RVP SAFFONIA"
+    ],
+    "essen": [
+      "ASADO STEAKHAUS",
+      "MC DONALDS",
+      "Trattoria Il Bosco",
+      "TAKEAWAYCOM",
+      "ORDER SMART",
+      "RESTAURANT",
+      "TOOGOODTOGO",
+      "HELLOFRESH",
+      "VOGLER DELIKATESSEN GMBH",
+      "app smart GmbH"
+    ],
+    "wohnen": [
+      "Miete",
+      "kaution",
+      "Schlusseldiens",
+      "Baumdienst",
+      "HAUSRAT-VERSICHERUNG",
+      "PRIVATHAFTPFLICHT"
+    ],
+    "freunde": [
+      "URBANSKIANK",
+      "SEBASTIANSC",
+      "Lina Solveig Unger",
+      "LARSWOLTER",
+      "ANGELORUDOL",
+      "Gloe, Mathias",
+      "SASCHARUDOL",
+      "LEONSCHLOTE",
+      "MARIELROSE",
+      "SVENJANITZ",
+      "CAROLINE SCHLEMMER"
+    ],
+    "gesundheit": [
+      "Techniker Krankenkasse",
+      "Apotheke",
+      "APOTHEKE",
+      "KINDERARZTPRAXIS",
+      "Hempel Gesundheit",
+      "Die Zahnaerzte Dres. Claessen"
+    ],
+    "freizeit": [
+      "TURM ErlebnisCity",
+      "TURM ERLEBNISCITY",
+      "STOFFE",
+      "EVENTIM"
+    ],
+    "unbekannt": [
+      "TICKETCOUNT",
+      "CAMPUSWERKC",
+      "LANDESHAUPTKASSE",
+      "AMAZON PAYMENTS",
+      "FABFAB",
+      "fabfab",
+      "DEUBA",
+      "BOXINE",
+      "BUTTINETTE",
+      "SULLYXXX",
+      "AMAZON EU S.A R.L., NIEDERLASSUNG DEUTSCHLAND",
+      "MONSEONLINE",
+      "BOOKING",
+      "ALEXV8205",
+      "THILI",
+      "THOMANN",
+      "BERRAKK",
+      "ANPIX",
+      "YVONNEHUSCH",
+      "OPTIXONEGMB",
+      "DKB VISACARD",
+      "GREENDONKEY",
+      "PP.4503.PP . , Ihr Einkauf bei"
+    ]
+  }
+}
